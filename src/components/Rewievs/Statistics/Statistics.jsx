@@ -4,7 +4,6 @@ import { StatList, StatItem } from './Statistics.styled';
 export default function Statistics({ statData, total, positive }) {
   return (
     <>
-      {/* Тепер ця штука маштабуєма)) */}
       <StatList>
         {Object.entries(statData).map(item => {
           const statName = item[0];

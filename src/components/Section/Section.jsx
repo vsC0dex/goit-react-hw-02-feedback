@@ -1,6 +1,4 @@
-// import { Box } from '../Box.styled';
 import { Box } from 'components/Box.styled';
-// import { Title } from './Section.styled';
 import { Title } from './Section.styled';
 import PropTypes from 'prop-types';
 
